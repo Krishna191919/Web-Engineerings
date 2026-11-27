@@ -9,4 +9,4 @@
 [submodule "frontend-lab"]
 	path = frontend-lab
 	url = https://github.com/Krishna191919/Frontend-Labs.git
-	branch = assignment-1.4
+	branch = assignment-1.5
